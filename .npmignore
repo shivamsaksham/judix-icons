@@ -1,0 +1,28 @@
+# Ignore source code and tests
+src/
+lib/**/*.ts
+tests/
+__tests__/
+coverage/
+demo/
+example/
+
+# Ignore development configuration files
+tsconfig.json
+vite.config.ts
+rollup.config.js
+*.config.js
+*.config.ts
+
+# Ignore local development files and environment variables
+.git/
+.gitignore
+*.env
+npm-debug.log*
+yarn-debug.log*
+*.log
+
+# Ignore public assets if they are not needed (since built assets are in dist)
+public/
+
+# You can also ignore other files that aren't needed in production
