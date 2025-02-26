@@ -11,7 +11,7 @@ export interface IconProps extends React.SVGProps<SVGSVGElement> {
   strokeWidth?: number;
 }
 
-const Icon: React.FC<IconProps> = ({ name, size = 24, color = "currentColor", strokeWidth , ...props }) => {
+const Icon: React.FC<IconProps> = ({ name, size = 16, color = "currentColor", strokeWidth , ...props }) => {
   const IconComponent = (Icons[name] as unknown) as React.FC<React.SVGProps<SVGSVGElement>>;
 
   if (!IconComponent) {
