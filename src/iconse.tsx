@@ -1900,3 +1900,19 @@ export { default as Youtube } from './icons/youtube.svg';
 export { default as Zel } from './icons/zel-(zel).svg';
 
 export { default as Zoom } from './icons/zoom.svg';
+
+export { default as DoubleBlueTick } from './icons/blue-tick.svg';
+
+export { default as VoiceNote } from './icons/voice note.svg';
+
+export { default as SingleTick } from './icons/single tick.svg';
+
+export { default as Pending } from './icons/pending.svg';
+
+export { default as Image2 } from './icons/image2.svg';
+
+export { default as DoubleTick } from './icons/double tick.svg';
+
+export { default as Doc } from './icons/doc.svg';
+
+export { default as Cross } from './icons/cross.svg';
