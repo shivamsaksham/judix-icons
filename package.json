@@ -14,7 +14,8 @@
   "author": "Shivam Saksham",
   "license": "MIT",
   "description": "A collection of React SVG icons",
-  "repository": { "type": "git", "url": "https://github.com/yourusername/your-icon-pack.git" },
+  "repository": { "type": "git", "url": "https://github.com/shivamsaksham/judix-icons" },
+  "keywords": ["react", "icons", "svg", "judix-icon-pack"],
   "devDependencies": {
     "@rollup/plugin-commonjs": "^28.0.2",
     "@rollup/plugin-node-resolve": "^16.0.0",
